@@ -88,4 +88,4 @@ https://www.highsnobiety.com/
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/IMG_7716.PNG" width="375px" alt="Detail pagina">
+<img src="images/IMG_7716.jpeg" width="375px" alt="Detail pagina">
