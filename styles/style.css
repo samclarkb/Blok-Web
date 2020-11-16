@@ -1,5 +1,39 @@
 /* CSS Document */
 *, *::after, *::before {
-  box-sizing:border-box;  
+  box-sizing:border-box;
 }
 
+body {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  text-align: center;
+}
+
+nav ul {
+  display: inline-flex;
+  list-style: none;
+}
+
+ul li {
+padding: 0 12vw;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+section img {
+  text-align: center;
+  width: 50vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}

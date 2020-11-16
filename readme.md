@@ -71,7 +71,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:**
 
-Ik twijfel tussen blauw en rood, maar omdat ik code wel erg leuk en interessant vind kies ik voor niveau rood.
+Ik twijfel tussen blauw en rood, maar omdat ik code schrijven wel erg leuk en interessant vind, kies ik voor niveau rood.
 
 **Je focus:**
 
