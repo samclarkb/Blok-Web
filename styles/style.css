@@ -6,6 +6,15 @@
 body {
   padding: 0;
   margin: 0;
+  font-family:"helvetica";
+}
+
+header nav {
+  position: fixed;
+  font-weight: bold;
+  top: 0;
+  background-color: white;
+  width: 100%;
 }
 
 nav {
@@ -15,10 +24,13 @@ nav {
 nav ul {
   display: inline-flex;
   list-style: none;
+  margin: 1em 0;
+  padding: 0;
 }
 
 ul li {
-padding: 0 12vw;
+/* padding: 0 5vw; */
+margin: 0;
 }
 
 a {
@@ -28,12 +40,225 @@ a {
 
 section img {
   text-align: center;
-  width: 50vw;
   margin-left: auto;
   margin-right: auto;
 }
 
+article img {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
 footer {
   background-color: black;
   color: white;
+  width: 100%;
+  padding: 0 1.5em;
+  margin: 0;
+  height: 230vh;
 }
+
+footer nav ul {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+}
+
+footer nav {
+  padding: 2em 0;
+}
+
+footer nav ul li a {
+  color: white;
+  font-weight: bold;
+}
+
+#vaporwaffle {
+  width: 75%;
+}
+
+main {
+padding: 0 16px;
+margin-top: 4em;
+}
+
+footer p {
+  color: #8c8c8c
+}
+
+footer nav hr {
+  color: white;
+  margin: 0.7em 0;
+}
+
+footer hr {
+  color: #8c8c8c;
+  margin: 5em 0;
+}
+
+#highsnobiety {
+  border: solid 2px;
+  border-top: hidden;
+  border-left: hidden;
+  border-right: hidden;
+}
+
+#hamburger {
+position: absolute;
+left: 1em;
+}
+
+#shop {
+  position: absolute;
+  right: 1em;
+  font-size: 0.8em;
+}
+
+button {
+  background: black;
+  color: white;
+  border: solid black;
+  width: 100%;
+  padding: 1em;
+}
+
+hr {
+  border: 1px solid;
+}
+
+.tags a {
+  border: solid black 0.10em;
+  border-radius: 5vw;
+  padding: 3vw;
+  border-color: #8c8c8c;
+  font-size: 3vw;
+}
+
+.tags ul li {
+  list-style: none;
+  display: inline;
+}
+
+.tags {
+  margin-left: -2.5em;
+  padding: 4vw 0;
+}
+
+#copyright {
+  color: white;
+  text-align: center;
+}
+
+.links {
+  color: white;
+  list-style: none;
+  display: inline;
+}
+
+footer a {
+  color: white;
+}
+
+footer p {
+  font-size: 14px;
+}
+
+.links li {
+  display: inline;
+  padding: 3vw;
+  text-align: center;
+}
+
+.links li a {
+  font-size: 3vw;
+  text-align: center;
+}
+
+ul.links {
+  margin: 0;
+  padding: 0;
+}
+
+
+.home image {
+  height: 343px;
+  width: 323.8px
+}
+
+button {
+  margin: 2em 0;
+}
+
+#stockx {
+  font-size: 3vw;
+}
+
+.homearticle {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.homearticle section {
+  /* width: 35%; */
+}
+
+.homearticle h3 {
+  font-size: 3vw;
+}
+
+.homearticle p {
+  font-size: 2vw;
+}
+
+.foto {
+  width: 40%;
+}
+
+.tekst {
+  width: 60%;
+  padding-left: 7vw;
+}
+
+
+
+#socials {
+  display: flex;
+  padding-top: 7vh;
+}
+
+#socials li {
+  list-style: none;
+  flex-grow: 1;
+}
+
+footer form hr {
+  margin: 0 0 10vh 0;
+  margin-top: 0;
+  padding: 0;
+}
+
+form option {
+  background-color: black;
+  color: white;
+}
+
+footer nav ul li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+ footer nav ul li a {
+   padding-top: 4vh;
+ }
+
+ #plus {
+   color: white;
+   font-size: 5vw;
+ }
