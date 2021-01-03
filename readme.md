@@ -24,23 +24,23 @@ In de kerstvakantie heb ik veel gewerkt aan mijn opdracht. Het is me helaas niet
 
 -screenshot(s) van je eindresultaat-
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.19.24.png" alt="">
+<img src="images/images/Scherm1.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.19.43.png" alt="">
+<img src="images/images/Scherm2.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.19.56.png" alt="">
+<img src="images/images/Scherm3.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.20.07.png" alt="">
+<img src="images/images/Scherm4.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.20.22.png" alt="">
+<img src="images/images/Scherm5.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.20.35.png" alt="">
+<img src="images/images/Scherm6.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.20.43.png" alt="">
+<img src="images/images/Scherm7.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.20.53.png" alt="">
+<img src="images/images/Scherm8.png" alt="">
 
-<img src="images/images/Schermafbeelding 2021-01-02 om 14.22.41.png" alt="">
+<img src="images/images/Scherm9.png" alt="">
 
 ## Voortgang 3 (week 6)
 
