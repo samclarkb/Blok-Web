@@ -85,7 +85,7 @@ n.v.t.
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
-<img src="images/BreakdownSchets" width="375px" alt="Breakdown schets">
+<img src="images/BreakdownSchets.jpg"  alt="Breakdown schets">
 
 
 ## Intake (week 1)
