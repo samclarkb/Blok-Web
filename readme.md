@@ -24,23 +24,23 @@ In de kerstvakantie heb ik veel gewerkt aan mijn opdracht. Het is me helaas niet
 
 -screenshot(s) van je eindresultaat-
 
-<img src="images/images/Scherm1.png" alt="">
+<img src="images/Scherm1.png" alt="">
 
-<img src="images/images/Scherm2.png" alt="">
+<img src="images/Scherm2.png" alt="">
 
-<img src="images/images/Scherm3.png" alt="">
+<img src="images/Scherm3.png" alt="">
 
-<img src="images/images/Scherm4.png" alt="">
+<img src="images/Scherm4.png" alt="">
 
-<img src="images/images/Scherm5.png" alt="">
+<img src="images/Scherm5.png" alt="">
 
-<img src="images/images/Scherm6.png" alt="">
+<img src="images/Scherm6.png" alt="">
 
-<img src="images/images/Scherm7.png" alt="">
+<img src="images/Scherm7.png" alt="">
 
-<img src="images/images/Scherm8.png" alt="">
+<img src="images/Scherm8.png" alt="">
 
-<img src="images/images/Scherm9.png" alt="">
+<img src="images/Scherm9.png" alt="">
 
 ## Voortgang 3 (week 6)
 
